@@ -1,0 +1,1 @@
+draw_sprite(item.sprite, 0, x, y);

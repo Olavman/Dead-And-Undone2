@@ -1,0 +1,9 @@
+enum POSITION
+{
+	CURR_X,
+	CURR_Y,
+	START_X,
+	START_Y,
+	TARGET_X,
+	TARGET_Y
+}

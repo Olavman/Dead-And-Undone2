@@ -1,0 +1,14 @@
+human necromancer summoning, clash, zealots, christians, bones, undead, battlefield, cinematic, red, green, purple, detailed, atmospheric, epic, concept art, Matte painting, background, mist, concept art, volumetric light, cinematic epic + rule of thirds octane render, 8k, corona render, game concept art, octane render, cinematic, trending on artstation, movie concept art, cinematic composition , ultra-detailed, realistic , hyper-realistic , volumetric lighting, 8k –ar 2:3 –test –uplight
+Friethr Grandunicus
+	inventory
+	crafting
+	menu
+	save & load
+tactical combat
+	dialogue
+	open world movement
+sfx
+camera
+	perlin noise
+	a star pathfinding
+	slider

@@ -1,0 +1,8 @@
+# Ignore GameMaker Studio 2 cache files
+.gm_cache/
+.gmx/
+*.win
+*.zip
+*.dll
+*.exe
+*.log
